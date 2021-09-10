@@ -1,0 +1,15 @@
+C:\AppCode\MyTrade\MyTrade.Infra\bin\Debug\net5.0\MyTrade.Infra.deps.json
+C:\AppCode\MyTrade\MyTrade.Infra\bin\Debug\net5.0\MyTrade.Infra.dll
+C:\AppCode\MyTrade\MyTrade.Infra\bin\Debug\net5.0\ref\MyTrade.Infra.dll
+C:\AppCode\MyTrade\MyTrade.Infra\bin\Debug\net5.0\MyTrade.Infra.pdb
+C:\AppCode\MyTrade\MyTrade.Infra\bin\Debug\net5.0\MyTrade.Common.dll
+C:\AppCode\MyTrade\MyTrade.Infra\bin\Debug\net5.0\MyTrade.Common.pdb
+C:\AppCode\MyTrade\MyTrade.Infra\obj\Debug\net5.0\MyTrade.Infra.csproj.AssemblyReference.cache
+C:\AppCode\MyTrade\MyTrade.Infra\obj\Debug\net5.0\MyTrade.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppCode\MyTrade\MyTrade.Infra\obj\Debug\net5.0\MyTrade.Infra.AssemblyInfoInputs.cache
+C:\AppCode\MyTrade\MyTrade.Infra\obj\Debug\net5.0\MyTrade.Infra.AssemblyInfo.cs
+C:\AppCode\MyTrade\MyTrade.Infra\obj\Debug\net5.0\MyTrade.Infra.csproj.CoreCompileInputs.cache
+C:\AppCode\MyTrade\MyTrade.Infra\obj\Debug\net5.0\MyTrade.Infra.csproj.CopyComplete
+C:\AppCode\MyTrade\MyTrade.Infra\obj\Debug\net5.0\MyTrade.Infra.dll
+C:\AppCode\MyTrade\MyTrade.Infra\obj\Debug\net5.0\ref\MyTrade.Infra.dll
+C:\AppCode\MyTrade\MyTrade.Infra\obj\Debug\net5.0\MyTrade.Infra.pdb

@@ -1,0 +1,12 @@
+C:\AppCode\MyTrade\MyTrade.Common\bin\Debug\net5.0\MyTrade.Common.deps.json
+C:\AppCode\MyTrade\MyTrade.Common\bin\Debug\net5.0\MyTrade.Common.dll
+C:\AppCode\MyTrade\MyTrade.Common\bin\Debug\net5.0\ref\MyTrade.Common.dll
+C:\AppCode\MyTrade\MyTrade.Common\bin\Debug\net5.0\MyTrade.Common.pdb
+C:\AppCode\MyTrade\MyTrade.Common\obj\Debug\net5.0\MyTrade.Common.csproj.AssemblyReference.cache
+C:\AppCode\MyTrade\MyTrade.Common\obj\Debug\net5.0\MyTrade.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppCode\MyTrade\MyTrade.Common\obj\Debug\net5.0\MyTrade.Common.AssemblyInfoInputs.cache
+C:\AppCode\MyTrade\MyTrade.Common\obj\Debug\net5.0\MyTrade.Common.AssemblyInfo.cs
+C:\AppCode\MyTrade\MyTrade.Common\obj\Debug\net5.0\MyTrade.Common.csproj.CoreCompileInputs.cache
+C:\AppCode\MyTrade\MyTrade.Common\obj\Debug\net5.0\MyTrade.Common.dll
+C:\AppCode\MyTrade\MyTrade.Common\obj\Debug\net5.0\ref\MyTrade.Common.dll
+C:\AppCode\MyTrade\MyTrade.Common\obj\Debug\net5.0\MyTrade.Common.pdb

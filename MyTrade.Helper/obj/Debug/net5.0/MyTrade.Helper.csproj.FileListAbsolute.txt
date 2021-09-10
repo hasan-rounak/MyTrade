@@ -1,0 +1,17 @@
+C:\AppCode\MyTrade\MyTrade.Helper\bin\Debug\net5.0\MyTrade.Helper.deps.json
+C:\AppCode\MyTrade\MyTrade.Helper\bin\Debug\net5.0\MyTrade.Helper.dll
+C:\AppCode\MyTrade\MyTrade.Helper\bin\Debug\net5.0\ref\MyTrade.Helper.dll
+C:\AppCode\MyTrade\MyTrade.Helper\bin\Debug\net5.0\MyTrade.Helper.pdb
+C:\AppCode\MyTrade\MyTrade.Helper\bin\Debug\net5.0\MyTrade.Common.dll
+C:\AppCode\MyTrade\MyTrade.Helper\bin\Debug\net5.0\MyTrade.Domain.dll
+C:\AppCode\MyTrade\MyTrade.Helper\bin\Debug\net5.0\MyTrade.Common.pdb
+C:\AppCode\MyTrade\MyTrade.Helper\bin\Debug\net5.0\MyTrade.Domain.pdb
+C:\AppCode\MyTrade\MyTrade.Helper\obj\Debug\net5.0\MyTrade.Helper.csproj.AssemblyReference.cache
+C:\AppCode\MyTrade\MyTrade.Helper\obj\Debug\net5.0\MyTrade.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppCode\MyTrade\MyTrade.Helper\obj\Debug\net5.0\MyTrade.Helper.AssemblyInfoInputs.cache
+C:\AppCode\MyTrade\MyTrade.Helper\obj\Debug\net5.0\MyTrade.Helper.AssemblyInfo.cs
+C:\AppCode\MyTrade\MyTrade.Helper\obj\Debug\net5.0\MyTrade.Helper.csproj.CoreCompileInputs.cache
+C:\AppCode\MyTrade\MyTrade.Helper\obj\Debug\net5.0\MyTrade.Helper.csproj.CopyComplete
+C:\AppCode\MyTrade\MyTrade.Helper\obj\Debug\net5.0\MyTrade.Helper.dll
+C:\AppCode\MyTrade\MyTrade.Helper\obj\Debug\net5.0\ref\MyTrade.Helper.dll
+C:\AppCode\MyTrade\MyTrade.Helper\obj\Debug\net5.0\MyTrade.Helper.pdb

@@ -1,0 +1,17 @@
+C:\AppCode\MyTrade\MyTrade.Business\bin\Debug\net5.0\MyTrade.Business.deps.json
+C:\AppCode\MyTrade\MyTrade.Business\bin\Debug\net5.0\MyTrade.Business.dll
+C:\AppCode\MyTrade\MyTrade.Business\bin\Debug\net5.0\ref\MyTrade.Business.dll
+C:\AppCode\MyTrade\MyTrade.Business\bin\Debug\net5.0\MyTrade.Business.pdb
+C:\AppCode\MyTrade\MyTrade.Business\bin\Debug\net5.0\MyTrade.Common.dll
+C:\AppCode\MyTrade\MyTrade.Business\bin\Debug\net5.0\MyTrade.Domain.dll
+C:\AppCode\MyTrade\MyTrade.Business\bin\Debug\net5.0\MyTrade.Common.pdb
+C:\AppCode\MyTrade\MyTrade.Business\bin\Debug\net5.0\MyTrade.Domain.pdb
+C:\AppCode\MyTrade\MyTrade.Business\obj\Debug\net5.0\MyTrade.Business.csproj.AssemblyReference.cache
+C:\AppCode\MyTrade\MyTrade.Business\obj\Debug\net5.0\MyTrade.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppCode\MyTrade\MyTrade.Business\obj\Debug\net5.0\MyTrade.Business.AssemblyInfoInputs.cache
+C:\AppCode\MyTrade\MyTrade.Business\obj\Debug\net5.0\MyTrade.Business.AssemblyInfo.cs
+C:\AppCode\MyTrade\MyTrade.Business\obj\Debug\net5.0\MyTrade.Business.csproj.CoreCompileInputs.cache
+C:\AppCode\MyTrade\MyTrade.Business\obj\Debug\net5.0\MyTrade.Business.csproj.CopyComplete
+C:\AppCode\MyTrade\MyTrade.Business\obj\Debug\net5.0\MyTrade.Business.dll
+C:\AppCode\MyTrade\MyTrade.Business\obj\Debug\net5.0\ref\MyTrade.Business.dll
+C:\AppCode\MyTrade\MyTrade.Business\obj\Debug\net5.0\MyTrade.Business.pdb
